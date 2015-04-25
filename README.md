@@ -1,4 +1,4 @@
-# ecnf_GCTest
+# ECNF GarbageCollector Test
 Modul: ecnf
 Written by: Philipp Steiner
 Summary:

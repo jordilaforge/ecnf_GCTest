@@ -30,6 +30,7 @@ namespace GarbageColletionTest
         {
             for (int i = 0; i < rounds; i++)
             {
+                Console.WriteLine("----------------Round"+i+"--------------------------");
                 GCSettings.LatencyMode = GCLatencyMode.LowLatency;
                 Persons persons = new Persons();
                 Console.WriteLine("Creating Persons....");
